@@ -12,3 +12,16 @@
 <img src="https://github.com/yeison097/conversorEstomatico/blob/main/gif.gif?raw=true" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div> 
  
+ <h3 align="center">Mejoras</h3> 
+ <p> Se añadieron algunas funcionalidades que no aparecen en el video por motivo de que no se haga algo extenso y cansado de ver, entre las cuales estan:.</p>
+ <ul>
+    <li>Se puede añadir algun estoma que el usuario considere que el aplicativo no logro detectar</li>
+    <li>Se podra "eliminar" un estoma dependiendo del juicio del cliente el cual considere que la deteccion no encaja con las caracteristicas de un estoma</li>
+    <li>Se visualizara el conteo en tiempo real de los estomas, incluso cuando se elimininen o añadan</li>
+    <li>Al descargar la imagen con la deteccion se visualizara:</li>
+       <ol>
+             <li>Cantidad total de estomas</li>
+             <li>Fecha de la manipulacion de la imagen</li>
+             <li>Responsable de la manipulacion de la imagen</li>
+       </ol>
+</ul>
