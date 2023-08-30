@@ -9,7 +9,7 @@
  <p> Es una aplicacion la cual permite realizar la deteccion estomatica de plantas de frijol, el presente aplicativo fue desarrollado en el lenguaje de programcion python apoyado con multiples bibliotecas orientadas a la inteliegencia artifica y al manejo de imagenes, de igual forma se cuenta con la implementacion de una red neurolan combolucional establecida la cual esta representada por yolo.</p>
  <h2 align="center">Como Utilizar</h2> 
   <div align= "center">
-<img src="https://github.com/yeison097/conversorEstomatico/blob/main/gif.gif?raw=true" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/yeison097/conversorEstomatico/blob/main/gif.gif?raw=true" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
   </div> 
  
  <h3 align="center">Mejoras</h3> 
