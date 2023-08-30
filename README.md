@@ -12,7 +12,7 @@
 <img src="https://github.com/yeison097/conversorEstomatico/blob/main/gif.gif?raw=true" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
   </div> 
  
- <h3 align="center">Mejoras</h3> 
+ <h2 align="center">Mejoras</h2> 
  <p> Se añadieron algunas funcionalidades que no aparecen en el video por motivo de que no se haga algo extenso y cansado de ver, entre las cuales estan:.</p>
  <ul>
     <li>Se puede añadir algun estoma que el usuario considere que el aplicativo no logro detectar</li>
@@ -25,3 +25,12 @@
              <li>Responsable de la manipulacion de la imagen</li>
        </ol>
 </ul>
+ <h2 align="center">Autor</h2>
+ <div align= "center"; display:block>
+  
+  <img src="https://github.com/yeison097/Conversor/blob/master/test/IMG_2784.JPG" alt="Conversor" style="width: 100px; display: inline-block;" data-target="animated-image.originalImage">
+
+  
+<a href="https://github.com/yeison097">GitHub</a>
+  <a href="https://www.linkedin.com/in/yeison-stiven-valencia-hurtatis-469470266/">Linkedln</a>
+  </div>
